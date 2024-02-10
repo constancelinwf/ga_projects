@@ -1,0 +1,16 @@
+Data dictionary
+
+thread_id: unique identifier of the thread being commented on
+comment_id: unique identifier of comment 
+comment_text: text body of comment
+comment_score: upvote score given by fellow redditors to that comment
+author_name: user who comment
+id: unique identifier of each thread posted
+title: title of thread
+score: upvote score given by fellow redditors to that thread
+num_comments: total number of comments to thread
+post_hint: to indicate if thread contain an image (image) or not (NaN)
+self_text: text body of thread
+author_name_thread: user who posted thread
+url: url of thread 
+url_is_media: BOOLEAN - if url contain images (1) or words (0)
