@@ -52,7 +52,7 @@ MBTI dataset
 - processed_posts: posts that have undergone EDA
 
 Linkedin dataset
-- job_title: job role of a currently employed Linkedin user
+- job_title: job role of a currently employed Linkedin user/ synthetically created job title
 - posts: written by user or synthetically created post reflective of job title
 - processed_posts: posts that have undergone EDA
 
@@ -118,7 +118,7 @@ The structure of Notebook 4 is as follows:
     - Save chosen vectorizer into a .pkl file
 
 
-In part 4, we will be using the 4 modelling algorithms for classification analyses:
+In part 4, we will be using the 6 modelling algorithms for classification analyses:
 1. Logistic Regression
 2. Bernoulli Naive Bayes
 3. Multinomial Naive Bayes
